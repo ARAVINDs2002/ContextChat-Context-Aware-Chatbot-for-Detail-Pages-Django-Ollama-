@@ -1,5 +1,12 @@
 # Context Chat Module (Django + Local AI)
 
+![Demo GIF](image_assets/RealEstateChatbot-GoogleChrome2026-01-1721-53-00-ezgif.com-video-to-gif-converter.gif)
+
+### Setup & Usage Screenshots
+![Install Ollama](image_assets/install%20and%20search%20ollama.png)
+![Open Ollama](image_assets/open%20ollama%20and%20close%20it%20(make%20sure%20uits%20running%20in%20bg).png)
+![Start Server](image_assets/activate%20env%20then%20start%20server%20click%20local%20host%20link.png)
+
 ## Alright, I’ll first explain the main idea of this project in a simple way.
 
 Think of any website where you have a detail page — it can be a building, a product, a service, or any single item that has many fields stored in the database.
@@ -36,14 +43,14 @@ The chatbot works using a fixed, single-entity context:
 
 This approach ensures accuracy, performance, and safety.
 
-## What This Module Is Applicable  For
+## What This Module Is Designed For
 
 This module can be used on:
-- Property detail pages
-- Product detail pages
-- Service detail pages
-- Catalog item pages
-- Profile pages
+- 🏠 Property detail pages
+- 📦 Product detail pages
+- 🛠️ Service detail pages
+- 📋 Catalog item pages
+- 👤 Profile pages
 - *Any page that displays one structured record at a time*
 
 ## Capabilities
