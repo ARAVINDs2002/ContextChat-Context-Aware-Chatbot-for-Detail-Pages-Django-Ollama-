@@ -9,7 +9,7 @@
 
 ## Alright, I’ll first explain the main idea of this project in a simple way.
 
-Think of any website where you have a detail page — it can be a building, a product, a service, or any single item that has many fields stored in the database.
+Think of any website where you have a detail page : it can be a building, a product, a service, or any single item that has many fields stored in the database.
 
 On that detail page, the user can type a question. For example, if it’s a building page, the user might ask something like “Is there a hospital nearby?” or “How is transportation here?”
 
